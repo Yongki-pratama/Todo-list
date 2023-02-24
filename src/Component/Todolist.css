@@ -1,0 +1,54 @@
+/* body {
+  background-color: rgb(129, 108, 108);
+}
+
+.container {
+  width: 60%;
+
+  margin: 40px auto;
+}
+
+form {
+  background: white;
+  position: relative;
+  padding: 50px;
+  box-shadow: 0 15px 30px #2a2929;
+
+  border-radius: 20px;
+}
+
+.newteks input {
+  border-radius: 13px;
+  width: 70%;
+  height: 40px;
+  font-size: 15px;
+  border: 3px solid #d1d3d4;
+  padding: 3px 15px;
+  color: black;
+  position: relative;
+}
+
+.newteks input:focus {
+  outline: none;
+  border-color: #19a68c;
+}
+
+.newteks button {
+  position: relative;
+  float: right;
+  width: 75px;
+  height: 45px;
+  border-radius: 15px;
+  font-size: 15px;
+  background: #19a68c;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.teks {
+  background: white;
+  width: 100%;
+  margin-top: 30px;
+  border-radius: 20px;
+} */

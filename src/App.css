@@ -1,0 +1,78 @@
+.jumbotroon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom right, #0033aa, #0099ff);
+  padding: 30px;
+}
+
+h1 {
+  color: white;
+}
+
+.jumbotroon .from {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.jumbotroon .from input {
+  border: none;
+  padding: 5px;
+  width: 350px;
+  height: 25px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.jumbotroon .from .btn-submit {
+  border: none;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.content {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #cccccc;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+span {
+  margin-left: auto;
+  margin-right: 0;
+  cursor: pointer;
+  background: #d40000c5;
+  padding: 1px 3px;
+  color: white;
+  border-radius: 5px;
+}
+
+.button-action {
+  margin-left: 6px;
+}
+
+.btn-edit {
+  border: none;
+  background-color: #ff9900;
+  padding: 6px 11px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
